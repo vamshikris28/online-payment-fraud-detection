@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Log files
+*.log
+
+# Model output files (optional: if huge)
+*.h5
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset (local only)
+dataset/creditcard.csv

@@ -1,7 +1,7 @@
 # 🛡️ Online Payment Fraud Detection using Machine Learning
 
 This minor project proposes a **hybrid machine learning model** to detect fraudulent online payments. It combines supervised (Random Forest), unsupervised (Isolation Forest), and deep learning (Autoencoder) techniques for real-time fraud detection.
-
+🔗 **Live Demo:** [Try the Fraud Detection Web App](https://cosmic-biscotti-823e7c.netlify.app/)
 ---
 
 ## 👨‍💻 Team Members

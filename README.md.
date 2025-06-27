@@ -58,11 +58,7 @@ online-payment-fraud-detection/
 ├── opfd.ipynb
 ├── requirements.txt
 ├── models/
-│ ├── rf_model.pkl
-│ ├── iso_model.pkl
-│ ├── autoencoder.h5
-│ ├── ae_threshold.pkl
-│ └── scaler.pkl
+│ ├── models.pkl
 ├── dataset/
 │ └── creditcard.csv
 ├── screenshots/

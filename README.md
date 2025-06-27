@@ -66,7 +66,7 @@ online-payment-fraud-detection/
 │ ├── TC02.png
 │ └── ...
 └── docs/
-└── mr_proj.pdf
+└── documentation.pdf
 
 ---
 
@@ -104,7 +104,7 @@ Screenshots from 8 different test cases (TC01–TC08) are available in the `scre
 
 ## 📝 Project Report
 
-Complete PDF report available in `docs/mr_proj.pdf`.
+Complete PDF report available in `docs/documentation.pdf`.
 
 ---
 
@@ -118,13 +118,17 @@ Complete PDF report available in `docs/mr_proj.pdf`.
  -- pip install -r requirements.txt
 
 3. Open and run the VS Code
- -- Open opfd.ipynb in VS Code, run the cells in interactive Python mode
+ -- Open opfd.ipynb in VS Code, run the cells in interactive Python mode.
 
 📩 Contact
-For queries or collaboration:
-GitHub Discussions
-LinkedIn
+For questions or collaboration, feel free to reach out to any of the team members:
 
+| Name               | Role                                       | GitHub                                    | Email                             | LinkedIn                             |
+|--------------------|--------------------------------------------|-------------------------------------------|-----------------------------------|--------------------------------------|
+| V Vamshi Krishna   | Model Training & Ensemble Integration      | [@vamshikris28](https://github.com/vamshikris28) | vallabudasvamshikrishna28@gmail.com        | [linkedin.com/in/vamshikrishna]( www.linkedin.com/in/vamshi-krishna-807961281) |
+| V Varun Kumar      | Data Preprocessing & Backend Development   | [@Varun-1312](https://github.com/Varun-1312)       | vvarun1312@gmail.com           | [linkedin.com/in/varunkumar](https://www.linkedin.com/in/varahala-varun-89227a282/)       |
+| V Rumnitha         | Research, UML Diagrams & Documentation     | [@RumnithaVaripally](https://github.com/RumnithaVaripally)         | varipally.rumnitha@gmail.com              | [linkedin.com/in/vrumnitha](https://www.linkedin.com/in/rumnitha-varipally-0611362a5/)         |
+| B Vaishnavi        | UI Design & Testing                        | [@vaishu707](https://github.com/Vaishu707)       | vaishnavi1644@gmail.com             | [linkedin.com/in/bvaishnavi](https://www.linkedin.com/in/vaishnavi-goud-a30024252/)       |
 
 
 

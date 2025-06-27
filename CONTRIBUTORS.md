@@ -5,7 +5,7 @@ This project was developed by a team of undergraduate students as part of a Mino
 ## 🧑‍💻 Team Members
 
 - **V Vamshi Krishna** – Model Training, Ensemble Integration, Deployment  
-  GitHub: [@vamshikris28](https://github.com/vamshikrishna)
+  GitHub: [@vamshikris28](https://github.com/vamshikris28)
 
 - **V Varun Kumar** – Data Preprocessing, Flask Backend, Testing  
   GitHub: [@Varun-1312](https://github.com/Varun-1312)

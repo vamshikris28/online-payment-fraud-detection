@@ -37,7 +37,7 @@ To build a robust fraud detection system using a **weighted ensemble** of three 
 - [Credit Card Fraud Detection Dataset – Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Highly imbalanced dataset with anonymized features
 
-⚠️ *Note: Dataset is not uploaded to GitHub due to licensing restrictions. Place it in the `dataset/` folder manually.*
+⚠️ *Note: Dataset is not uploaded to GitHub due to licensing restrictions.*
 
 ---
 

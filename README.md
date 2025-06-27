@@ -8,7 +8,7 @@ This minor project proposes a **hybrid machine learning model** to detect fraudu
 
 - **V. Vamshi Krishna** (22VE1A67C1)  
 - **V. Varun Kumar** (22VE1A67C0)  
-- **V. Rumnitha ** (22VE1A67C3)  
+- **V. Rumnitha** (22VE1A67C3)  
 - **B. Vaishnavi** (23VE5A6707)  
 
 ---
